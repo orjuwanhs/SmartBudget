@@ -1,0 +1,72 @@
+name: smartbudget
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0 # تم تعديل الإصدار ليتوافق مع أغلب المكتبات الحالية
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  dart_openai: ^5.1.0
+
+  # مكتبات الفايربيز (يجب أن تكون بمحاذاة flutter وليس تحتها)
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.17.5
+  fl_chart: ^0.66.0
+  intl: ^0.19.0
+  flutter_staggered_animations: ^1.0.0
+  flutter_local_notifications: ^20.1.0
+  pdf: ^3.10.8
+  printing: ^5.11.1
+  share_plus: ^7.2.1
+  confetti: ^0.7.0
+  shared_preferences: ^2.5.4
+  audioplayers: ^5.2.1
+  image_picker: ^1.2.1
+  firebase_storage: ^11.7.7
+  path: ^1.9.0
+  local_auth: ^2.1.6
+  path_provider: ^2.1.2
+  get_storage: ^2.1.1
+
+
+
+  # مكتبة GetX
+  get: ^4.6.6
+  google_generative_ai: ^0.4.4 # بنفس محاذاة البقية
+
+  # مكتبات أخرى
+  cupertino_icons: ^1.0.8
+  permission_handler: ^12.0.1
+  firebase_messaging: ^14.9.4
+  flutter_secure_storage: ^10.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+# إعدادات الشاشة الترحيبية
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash.png
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: center
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/splash.png
+    - assets/images/log.png
+    - assets/images/back.jpg
