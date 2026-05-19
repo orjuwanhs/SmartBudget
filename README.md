@@ -14,6 +14,7 @@ Proactive Management: Features real-time alerts for budget limits and a goal-tra
 
 Accessibility: Offers a bilingual interface in both Arabic and English to accommodate a diverse user base.
 
+
 ## Firebase Setup:
 For security reasons, the google-services.json file is ignored. To run the project locally:
 
@@ -23,17 +24,16 @@ Download your google-services.json file.
 
 Place it inside the android/app/ directory.
 
+
 ## Primary Application Interfaces
-
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/cbca33d3-7b5b-4c49-b4c4-0419ea8ada61" />
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/f92fda98-e882-4e8c-9a00-b6becd65f743" /> 
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/4751d889-e6cf-41ec-94dd-e11ef8aece22" />
-
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/e0328138-13e7-4e2f-878d-71f7935b21a2" />
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/e697383c-9a42-4060-86c8-f6c7d3474ddb" />
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/7592ea69-2693-47bd-8b8c-30ef2a9f26d2" />  
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/208ffcbf-1e03-4956-87fc-a126110ab66b" />
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/ff89886b-2ae1-45af-93d0-ec1989bee1f7" />
-
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/a589882f-7db7-4188-8504-c9ac5a187936" /> 
-<img width="206" height="424" alt="image" src="https://github.com/user-attachments/assets/ae60a8b2-e9c1-4aa2-80f1-dea100a39ee6" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 212121" src="https://github.com/user-attachments/assets/eeea2369-ab8d-4692-a62d-e31720626855" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 211751" src="https://github.com/user-attachments/assets/bcd69336-b257-4bfb-a469-0afc599f0429" />
+<img width="206" height="424" alt="Screenshot 2026-05-01 184139" src="https://github.com/user-attachments/assets/8e7ffdc8-aa01-4acb-8f4b-8d5709570d0b" />
+<img width="206" height="424" alt="Screenshot 2026-05-01 184315" src="https://github.com/user-attachments/assets/8ad2e38c-d9ed-41e1-9c5b-ac341712dfb4" />
+<img width="206" height="424" alt="Screenshot 2026-04-30 180002" src="https://github.com/user-attachments/assets/a243721d-9fe5-49af-94d9-7869374527dd" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 200618" src="https://github.com/user-attachments/assets/34aff8fe-a530-45d7-af4b-89ff929d2eff" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 211352" src="https://github.com/user-attachments/assets/a5ce24e8-12be-4284-8fbf-b00edfa373c1" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 210704" src="https://github.com/user-attachments/assets/07836558-f2fb-4393-8cfa-c219a0dd049d" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 205858" src="https://github.com/user-attachments/assets/2b9c7e2a-3c1a-498f-8c9b-d3fa1630eb1d" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 205305" src="https://github.com/user-attachments/assets/0c587804-c57f-41ec-a06f-8eded46abd13" />
+<img width="206" height="424" alt="Screenshot 2026-05-04 205704" src="https://github.com/user-attachments/assets/334bb7f0-a6b7-47f6-bfa8-570615a9972c" />
