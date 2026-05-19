@@ -1,4 +1,4 @@
-# smartbudget
+# SmartBudget
 
 ### The Smart Personal Budget Management Application
 
